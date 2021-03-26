@@ -7,6 +7,6 @@
 - 💬 Ask me about Keyboard specs and Coffee origins.
 - 📫 How to reach me: email me at hey.joshua.afk@gmail.com.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I do meditation, breathing exercise everyday.
+- ⚡ Fun fact: I'm grinding when you are sleeping. :)
 
 <img src="https://github-readme-stats.vercel.app/api?username=joshua-afk&&show_icons=true&title_color=151515&icon_color=f65252&text_color=24292e&bg_color=ffffff">
