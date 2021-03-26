@@ -1,7 +1,7 @@
 ### Hi there! I'm Joshua Ryan Velasquez. 👋
 
 - 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning React, Node and Django.
+- 🌱 I’m currently learning Colemak-DH.
 - 👯 I’m looking to collaborate on any neovim plugin project.
 - 🤔 I’m looking for help with starting a Youtube channel.
 - 💬 Ask me about Keyboard specs and Coffee Origins / Brewing methods.
