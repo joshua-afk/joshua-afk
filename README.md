@@ -1,6 +1,6 @@
 ### Hi there! I'm Joshua Ryan Velasquez. 👋
 
-- 🔭 I’m currently working on my Blog and our Business website!
+- 🔭 I’m currently working on React Project and COQ snippets!
 - 🌱 I’m currently learning Colemak-DH (78wpm now!)
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
 - 💬 Ask me about Keyboard and Coffee.
