@@ -8,4 +8,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Dog Lover, Coffee Lover, and I also toothbrush a lot now since coffee is acidic!
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshua-afk&&show_icons=true&title_color=151515&icon_color=f65252&text_color=24292e&bg_color=ffffff">
+![joshua-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-afk&theme=one&show_icons=true)
