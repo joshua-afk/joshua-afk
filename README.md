@@ -1,4 +1,4 @@
-### Hi there! I'm Joshua Ryan Velasquez. 👋
+### Hi there! I'm Joshua Ryan Velasquez. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 I’m currently working on React Project!
 - 🌱 I’m currently learning Colemak-DH (85wpm now!)
@@ -6,6 +6,18 @@
 - 💬 Ask me about Keyboard and Coffee.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
 - ⚡ Fun fact: Fur Parent, Coffee Lover, and I also toothbrush a lot now since coffee is acidic!
+
+### Tools & Technologies:
+
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>](https://www.mysql.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>](https://www.php.net/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>](https://www.laravel.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>](https://www.vuejs.org/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>](https://www.getbootstrap.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>](https://www.tailwindcss.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
 
 ![joshua-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-afk&theme=tokyonight&show_icons=true)
 
