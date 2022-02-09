@@ -20,7 +20,8 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
 
 ### Github stats:
-![joshua-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-afk&theme=tokyonight&show_icons=true)
+<p align=center>![joshua-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-afk&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="joshua-afk" align="center")
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-afk&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="joshua-afk" align="center"/></p>
 
 #### Find me on:
 [![Github Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Github&logoColor=white&link=https://joshua-afk.github.io)](https://joshua-afk.github.io)
