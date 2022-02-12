@@ -1,6 +1,6 @@
 ### Hi there! I'm Joshua Ryan Velasquez. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-- 🔭 I’m currently working on React Project!
+- 🔭 I’m currently working on NodeJS Project!
 - 🌱 I’m currently learning Colemak-DH (85wpm now!)
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
 - 💬 Ask me about Keyboard and Coffee.
