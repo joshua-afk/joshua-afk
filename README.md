@@ -2,7 +2,7 @@
 
 I am Joshua-AFK and I am a web developer, designer, vimmer, typist, and a mortal. I am packed with knowledge in dev-ops technologies, back-end technologies, and many resource and reference for front-end stacks.
 
-Want to know more? [https://joshua-afk.github.io/](Check out my portfolio!)
+Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio!</a>
 
 - 🔭 I’m currently working on RoR & NodeJS Project!
 - 🌱 I’m currently learning Colemak-DH (85wpm now!)
