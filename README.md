@@ -34,3 +34,6 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 #### Find me on:
 [![Github Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Github&logoColor=white&link=https://joshua-afk.github.io)](https://joshua-afk.github.io)
 [![Protonmail Badge](https://img.shields.io/badge/-joshuaryan.velasquez.22@protonmail.com-263062?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:joshuaryan.velasquez.22@protonmail@gmail.com)](mailto:joshuaryan.velasquez.22@protonmail.com)
+
+<hr>
+<p align="center">🧉 <b><a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ">A message for you!</a></b> 🧉</p>
