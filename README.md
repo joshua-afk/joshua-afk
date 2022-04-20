@@ -4,7 +4,7 @@ I am Joshua-AFK and I am a web developer, designer, vimmer, typist, and a mortal
 
 Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio!</a>
 
-### Quick Peaks:
+### Quick Peeks:
 
 - 🔭 I’m currently working on RoR & NodeJS Project!
 - 🌱 I’m currently learning Colemak-DH (85wpm now!)
