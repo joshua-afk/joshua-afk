@@ -6,12 +6,13 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 ### Quick Peeks:
 
-- 🔭 I’m currently working on RoR & NodeJS Project!
-- 🌱 I’m currently learning Colemak-DH (85wpm now!)
+- 🔭 Currently working on RoR & Node Project!
+- 🌱 Currently learning Colemak-DH (85wpm now!)
+- 📚 Currently reading "Thinking, Fast and Slow by Daniel Kahneman"
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
-- 💬 Ask me about Keyboard and Coffee.
+- 💬 Ask me about Books, Keyboard, and Coffee.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
-- ⚡ Fun fact: Fur Parent, Coffee Lover, and I also toothbrush a lot now since coffee is acidic!
+- ⚡ Some facts: A person who is genuinely curious, drinks Coffee sometimes, and in Romantic term a "Seeker of knowledge", I guess...
 
 ### Tools & Technologies:
 
