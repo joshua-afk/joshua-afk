@@ -7,7 +7,7 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 ### Quick Peeks:
 
 - 🔭 Currently working on RoR & Node Project!
-- 🌱 Currently learning Colemak-DH (85wpm now!)
+- 🌱 Currently learning Colemak-DH (90wpm now!)
 - 📚 Currently reading "Thinking, Fast and Slow by Daniel Kahneman"
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
 - 💬 Ask me about Books, Keyboard, and Coffee.
