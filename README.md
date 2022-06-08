@@ -1,4 +1,4 @@
-### Hi there! I'm Joshua Ryan Velasquez. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there! I'm Joshua Ryan Velasquez.
 
 I am Joshua-AFK and I am a web developer, designer, vimmer, typist, and a mortal. I am packed with knowledge in dev-ops technologies, back-end technologies, and many resource and reference for front-end stacks.
 
@@ -6,7 +6,7 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 ### Quick Peeks:
 
-- 🔭 Currently working on RoR & Node Project!
+- 🔭 Currently working on RoR, React & Node Project!
 - 🌱 Currently learning Colemak-DH (90wpm now!)
 - 📚 Currently reading "Thinking, Fast and Slow by Daniel Kahneman"
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
