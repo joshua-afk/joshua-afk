@@ -8,7 +8,7 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 - 🔭 Currently working on RoR, React & Node Project!
 - 🌱 Currently learning Colemak-DH (90wpm now!)
-- 📚 Currently reading "Thinking, Fast and Slow by Daniel Kahneman"
+- 📚 Currently reading "Thinking, Fast and Slow by Daniel Kahneman" & "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
 - 💬 Ask me about Books, Keyboard, and Coffee.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
