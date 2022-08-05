@@ -12,7 +12,7 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
 - 💬 Ask me about Books, Keyboard, and Coffee.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
-- ⚡ Fun facts: A person who is genuinely curious, drinks Coffee sometimes.
+- ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time, also drinks Coffee sometimes.
 
 ### Tools & Technologies:
 
