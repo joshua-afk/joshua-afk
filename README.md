@@ -1,4 +1,4 @@
-### Hi there! I'm Joshua Ryan Velasquez.
+### Hi there! 👻
 
 I am Joshua-AFK and I am a web developer, designer, vimmer, typist, and a mortal. I am packed with knowledge in dev-ops technologies, back-end technologies, and many resource and reference for front-end stacks.
 
