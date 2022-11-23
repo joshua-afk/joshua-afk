@@ -8,7 +8,7 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 - 🔭 Currently working on RoR, React & Node Project!
 - 🌱 Currently learning Colemak-DH (90wpm now!)
-- 📚 Currently reading "Breath: The New Science of Lost Art"
+- 📚 Currently reading "Deep Work: Rules for Focused Success in a Distracted World"
 - 👯 I’m looking to collaborate on any neovim plugin project using Lua.
 - 💬 Ask me about Books, Keyboard, Coffee, Manga/Anime, and other Random stuffs.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
