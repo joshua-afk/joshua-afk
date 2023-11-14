@@ -6,13 +6,14 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 ### Quick Peeks:
 
-- 🔭 Currently working on RoR, React & Node Project!
+- 🔭 Currently working on RoR, React, Node, & Flutter projects!
+  - Like, for real. I'm currently in commision with different projects. 
 - 🌱 Currently learning Colemak-DH (100wpm now!)
-- 📚 Currently reading "You Don't Know JS"
-- 👯 I’m looking to collaborate on any neovim plugin project using Lua.
+- 📚 Currently reading "You Don't Know JS", "The 5 AM Club", and "The Psychology of Money"
+  - Yes, I'm reading multiple books at a time.
 - 💬 Ask me about Keyboard, Coffee, Books, Manga/Anime, Life and other Random stuffs.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
-- ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time. Drinks Coffee sometimes.
+- ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time. Drinks Coffee "sometimes".
 
 ### Tools & Technologies:
 
