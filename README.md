@@ -7,11 +7,11 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 ### Quick Peeks:
 
 - 🔭 Currently working on RoR, React, Node, & Flutter projects!
-  - Like, for real. I'm currently in commision with different projects. 
 - 🌱 Currently learning Colemak-DH (100wpm now!)
-- 📚 Currently reading "You Don't Know JS", "The 5 AM Club", and "The Psychology of Money"
-- 💬 Ask me about Keyboard, Coffee, Books, Manga/Anime, Life and other Random stuffs.
-- 📫 How to reach me: email me at joshuaryan.velasquez.22@protonmail.com
+  - I've adjusted from 200 common english words to 5k. Currently at 75-80wpm.
+- 📚 Currently reading "How to take smart notes"
+- 💬 Ask me about Keyboard, Coffee, Books, Life and other Random stuffs.
+- 📫 How to reach me: email me at joshuaryan.velasquez.22@gmail.com
 - ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time. Drinks Coffee "sometimes".
 
 ### Tools & Technologies:
@@ -44,6 +44,3 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 #### Find me on:
 [![Github Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Github&logoColor=white&link=https://joshua-afk.github.io)](https://joshua-afk.github.io)
 [![Protonmail Badge](https://img.shields.io/badge/-joshuaryan.velasquez.22@protonmail.com-263062?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:joshuaryan.velasquez.22@protonmail@gmail.com)](mailto:joshuaryan.velasquez.22@protonmail.com)
-
-<hr>
-<p align="center">🧉 <b><a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ">A message for you!</a></b> 🧉</p>
