@@ -1,6 +1,6 @@
 ### Hi there! 👻
 
-I am Joshua-AFK and I am a web developer, designer, vimmer, typist, and a mortal. I am packed with knowledge in dev-ops technologies, back-end technologies, and many resource and reference for front-end stacks.
+I'm Joshua, a Software Engineer based in Manila, Philippines. When I'm not working, I spend most of my time fine-tuning my neovim configuration, maintaining and building my second-brain knowledge base in Obsidian, and exploring ways on how to streamline and simplify my development environment.
 
 Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio!</a>
 
@@ -9,10 +9,10 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 - 🔭 Currently working on RoR, React, Node, & Flutter projects!
 - 🌱 Currently learning Colemak-DH (100wpm now!)
   - I've adjusted from 200 common english words to 5k. Currently at 75-80wpm.
-- 📚 Currently reading "How to take smart notes"
+- 📚 Currently reading "The Art of Clean Code"
 - 💬 Ask me about Keyboard, Coffee, Books, Life and other Random stuffs.
 - 📫 How to reach me: email me at joshuaryan.velasquez.22@gmail.com
-- ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time. Drinks Coffee "sometimes".
+- ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time.
 
 ### Tools & Technologies:
 
