@@ -6,13 +6,11 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 ### Quick Peeks:
 
-- 🔭 Currently working on RoR, React, Node, & Flutter projects!
-- 🌱 Currently learning Colemak-DH (100wpm now!)
-  - I've adjusted from 200 common english words to 5k. Currently at 75-80wpm.
+- 🔭 Currently working on RoR, React, & Node projects
+- 🌱 Currently using Colemak-DH (100WPM, peak at 132WPM)
+  - I've recalibrated from 200 common english words to 5k. Currently at 70WPM peak at 85WPM
+- ⚡ Fun fact: A person who is always curious, clueless most of the time
 - 📚 Currently reading "The Art of Clean Code"
-- 💬 Ask me about Keyboard, Coffee, Books, Life and other Random stuffs.
-- 📫 How to reach me: email me at joshuaryan.velasquez.22@gmail.com
-- ⚡ Fun facts: A person who is always genuinely curious, clueless most of the time.
 
 ### Tools & Technologies:
 
