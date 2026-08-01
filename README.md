@@ -35,8 +35,8 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 
 ### Github stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshua-afk&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="joshua-afk" align="center" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-afk&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="joshua-afk" align="center"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joshua-afk&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="joshua-afk" align="center" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=joshua-afk&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="joshua-afk" align="center"/>
 </p>
 
 #### Find me on:
