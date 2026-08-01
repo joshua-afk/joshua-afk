@@ -8,7 +8,7 @@ Want to know more? <a href="https://joshua-afk.github.io">Check out my portfolio
 ### Quick Peeks:
 ---
 - 🔭 Currently working on RoR and React project(s)
-- 🌱 Currently using Colemak-DH (100WPM, peak at 132WPM) ([Moonlander ZSA Layout here](https://configure.zsa.io/moonlander/layouts/zQnR3/latest/0))
+- 🌱 Currently using Colemak-DH HRM (100WPM, peak at 132WPM) ([Moonlander ZSA Layout here](https://configure.zsa.io/moonlander/layouts/zQnR3/latest/0))
   - I've recalibrated from 200 common English words to 5k. Currently at 70WPM peak at 85WPM
 - ⚡ Fun fact: A person who is always curious, clueless most of the time.
 - 📚 Currently reading "Agile Web Development with Rails 8", Check my progress [here](https://github.com/joshua-afk/agile-web-development-with-rails-8).
